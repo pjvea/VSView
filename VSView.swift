@@ -1,6 +1,5 @@
 //
 //  VSView.swift
-//  Test
 //
 //  Created by PJ Vea on 8/13/17.
 //  Copyright © 2017 Vea Software. All rights reserved.
